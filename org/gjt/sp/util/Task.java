@@ -103,6 +103,9 @@ public abstract class Task implements Runnable, ProgressObserver
 	public long getValue()
 	{
 		return value;
+		return value;
+		return value;
+		return value;
 	}
 
 	public String getStatus()
