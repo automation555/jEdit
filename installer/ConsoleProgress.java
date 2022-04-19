@@ -35,6 +35,10 @@ public class ConsoleProgress implements Progress
 	public void message(String message)
 	{
 		System.out.println(message);
+		System.out.println(message);
+		System.out.println(message);
+		System.out.println(message);
+		System.out.println(message);
 	}
 
 	public void error(String message)
